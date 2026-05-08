@@ -1,0 +1,30 @@
+date,day,month,semester,event
+8,MON,JUNE,odd,Teaching Start 
+4,SAT,JULY,odd,Weekly 1 
+11,SAT,JULY,odd,Weekly 2 
+18,SAT,JULY,odd,Weekly 3 
+25,SAT,JULY,odd,Weekly 4 
+27,MON,JULY,odd,Remedial Mid Term Exam of Previous Sem 
+1,SAT,AUGUST,odd,Weekly 5 
+8,SAT,AUGUST,odd,Weekly 6 
+15,SAT,AUGUST,both,Independence Day Holiday 
+17,MON,AUGUST,odd,Mid Sem Exam Begin 
+22,SAT,AUGUST,odd,Mid Sem Exam End 
+28,FRI,AUGUST,both,Raksha Bandhan Holiday 
+4,FRI,SEPTEMBER,both,Janmashtmi Holiday 
+14,MON,SEPTEMBER,both,Samvatsari Holiday 
+15,TUE,SEPTEMBER,odd,T/W Submission Begin 
+18,FRI,SEPTEMBER,odd,T/W Submission End 
+24,THU,SEPTEMBER,odd,Marks Locking date by HOD 
+25,FRI,SEPTEMBER,odd,Marks Locking date by Principal 
+26,SAT,SEPTEMBER,odd,Marks Locking date by Dean 
+2,FRI,OCTOBER,both,Gandhi Jayanti Holiday 
+3,SAT,OCTOBER,odd,Teaching End 
+5,MON,OCTOBER,odd,End Sem (ESE) Practical Starts 
+17,SAT,OCTOBER,odd,End Sem (ESE) Practical Ends 
+19,MON,OCTOBER,odd,End Sem (ESE) Theory Begin 
+20,TUE,OCTOBER,both,Dusshera Holiday 
+31,SAT,OCTOBER,both,Sardar Vallabhbhai's Birthday Holiday 
+2,MON,NOVEMBER,both,Diwali Vacation Begin 
+14,SAT,NOVEMBER,both,Diwali Vacation End 
+23,MON,NOVEMBER,even,New Term (Even) Commencement
