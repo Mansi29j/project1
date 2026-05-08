@@ -38,3 +38,14 @@ The application is built using three core Java classes to ensure clean, maintain
 3. **Compile the source files**:
    ```bash
    javac Main.java EventReader.java CalendarEvents.java
+4. Launch the Application:
+    ```bash
+    java Main
+
+## Running in VS Code
+1. Open the project folder in VS Code.
+2. Open the integrated terminal (Ctrl + ` ).
+3. Run the compilation and launching commands listed above from Setup & Execution.
+
+Optional: If you have the Java Extension Pack installed, you can simply open Main.java and click the Run button above the main method.
+
